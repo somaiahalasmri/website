@@ -18,7 +18,7 @@ a{
 }
 
 nav{
-  background-color: #e1e1e1;
+  background-color: AliceBlue ;
   padding: 10px; text-align: center;
 }
 
@@ -87,7 +87,7 @@ h2, strong, h3{
   display: inline-block;
 }
 
-.actions ul li a{
+.actions ul li {
   padding: 10px; text-decoration: none; color: #fff;
   background-color: #32c24d; border-radius: 4px;
   font-family: 'Dubai-Bold', sans-serif;
@@ -304,10 +304,10 @@ h2, strong, h3{
     padding: 20px;
   }
   .copyrights{
-    font-size: 12px;
+    font-size: 14px;
   }
   .tracks{
-    margin-bottom: 20px;
+    margin-bottom: 22px;
   }
   .track:not(:last-child){
     margin-bottom: 20px;
